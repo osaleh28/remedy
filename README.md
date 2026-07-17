@@ -19,6 +19,4 @@ Features
 
 View today's doses in a clear timeline, with the next upcoming dose highlighted
 Add a new medication in seconds (name, dose, schedule)
-Get reminded before each dose is due
-Track remaining supply and get notified before a refill is needed
 Mark doses as taken
