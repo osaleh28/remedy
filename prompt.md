@@ -1,3 +1,4 @@
 - I asked Claude AI to help me come up with a name for an application to help patients remember there medications and it came up with the app name Remedy for me.
 - I asked ChatGPT to come up with a logo.  I asked ChatGPT to make sure that it incorporates the shape of a pill in the logo.
 - I asked Claude AI to make a homepage for me
+- I asked Claude to create a "Sign Up" button and a "Log In" Button.  For the Sign Up Button, I wanted a bell icon next to the word "Sign Up", and then for the Log In Button I wanted to put a tiny prescription pad next to the word "Log In".
