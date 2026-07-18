@@ -17,12 +17,12 @@ multiple medications and helps build a consistent routine.
 
 Features
 
-View today's doses in a clear timeline, with the next upcoming dose highlighted
-Add a new medication in seconds (name, dose, schedule)
-Mark doses as taken
-Give the patient reminders
-How many refills
+- View today's doses in a clear timeline
+- Add a new medication in seconds (name, dose, schedule)
+- Mark doses as taken
+- Give the patient reminders
+- How many refills
 
 Future Features
-Allow the patient to take pictures of his medication bottles so that the application can read the label and fill in the information automatically
-Alert the patient that refills are due and also send a message to the patient's doctor
+- Allow the patient to take pictures of his medication bottles so that the application can read the label and fill in the information automatically
+- Alert the patient that refills are due and also send a message to the patient's doctor
