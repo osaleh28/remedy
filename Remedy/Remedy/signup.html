@@ -13,7 +13,7 @@
 
     <h2>Create Your Account</h2>
 
-<form>
+<form id="signup-form">
 
   <label for="first-name">First Name</label>
   <input type="text" id="first-name" name="first-name" placeholder="Enter your first name" required>
@@ -30,6 +30,8 @@
   <label for="confirm-password">Confirm Password</label>
   <input type="password" id="confirm-password" name="confirm-password" placeholder="Confirm Password" required>
 
+  <p id="password-error" class="error-message"></p>
+
   <button type="submit" class="btn">Sign Up</button>
 
 </form>
@@ -37,5 +39,7 @@
     <a href="index.html" class="med-link">Already have an account? Log In</a>
 
   </div>
+
+<script src="script.js"></script>
 </body>
 </html>
