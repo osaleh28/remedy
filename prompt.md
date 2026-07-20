@@ -1,3 +1,6 @@
+- I initially asked ChatGPT to help me build a simple project using HTML, CSS, and JavaScript, and pasted the next chapter mission statement.
+- ChatGPT initially gave me a few ideas, including a workout tracker, a healthcare compliance glossary, a habit tracker.  It recommended that I do a Workout Tracker.
+- I later told ChatGPT that I would like to create an applicaiton for a daily medication reminder, and it agreed that it was a better idea as it aligns with my previous career, which was a doctor.
 - I asked Claude AI to help me come up with a name for an application to help patients remember there medications and it came up with the app name Remedy for me.
 - I asked ChatGPT to come up with a logo.  I asked ChatGPT to make sure that it incorporates the shape of a pill in the logo.
 - I asked Claude AI to make a homepage for me
